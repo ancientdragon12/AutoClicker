@@ -3,7 +3,7 @@
 File: auto_clicker_macro.py
 Author: Ancientdragon12
 Date: 12-29-2023
-Git repo: 
+Git repo: https://github.com/ancientdragon12/AutoClicker
 Description: A program clicking the mouse repedativly with stop, start, and kill key presses
 """
 
